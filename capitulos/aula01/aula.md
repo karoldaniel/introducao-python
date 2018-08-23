@@ -98,7 +98,7 @@ Você também pode guardar um novo valor dentro da mesma variável. Exemplo:
 ```python
 nome = "Anna"
 ```
-Uma variável pode guardar vários tipos de dados diferentes, como números, listas, datas! Exemplo usando números:
+Uma variável pode guardar vários tipos de dados diferentes, como números, listas, datas! Uma variável é apenas um nome que você atribui a alguma coisa de tal forma que possa usá-lo mais tarde. Exemplo usando números:
 
 ```python
 nome = "Hebert"
